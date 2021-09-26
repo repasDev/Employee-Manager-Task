@@ -1,0 +1,14 @@
+.centering{
+    display: flex;
+    align-items: center;
+    height: 38px;
+}
+
+.spacer{
+    margin-right: 8px;
+}
+
+.fix-width-column{
+    width: 250px;
+    min-width: 150px;
+}
