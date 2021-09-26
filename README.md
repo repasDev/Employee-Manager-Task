@@ -13,3 +13,6 @@ Podatkovna baza je bila narejena v MSSQL.
 3. V UI nato z visual studio code namestimo najprej vse module z npm install, nato pa vzpostavimo server z angular.
 
 4. Na poljubjnem spletnem brskalniku se nato povežemo na slednjo stran.
+
+
+P.S.: The "frontend" folder in "UI" might have to be renamed to "angular".
